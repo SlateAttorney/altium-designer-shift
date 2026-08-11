@@ -36,4 +36,4 @@ Industry-leading **Altium Designer Shift** engineering workspace with CFD, FEA, 
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.   
+> This repository is provided for educational and utility purposes only. Use at your own discretion.    
